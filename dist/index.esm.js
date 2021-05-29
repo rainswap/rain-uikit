@@ -2730,7 +2730,7 @@ var useKonamiCheatCode = function (matchedCodeHandler) {
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#1FC7D4",
+    primary: "#3BB7FF",
     primaryBright: "#53DEE9",
     primaryDark: "#0098A1",
     secondary: "#5BB9FF",
