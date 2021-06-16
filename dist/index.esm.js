@@ -3189,8 +3189,8 @@ var Icon$i = function (props) {
 
 var Logo$2 = function (_a) {
     _a.isDark; var props = __rest(_a, ["isDark"]);
-    return (React.createElement(Svg, __assign({ viewBox: "0 0 238 106" }, props),
-        React.createElement("image", { width: "238", height: "106", href: "/images/logo-with-text.png" })));
+    return (React.createElement(Svg, __assign({ viewBox: "0 0 1364 607" }, props),
+        React.createElement("image", { width: "1364", height: "607", href: "/images/logo-with-text.png" })));
 };
 var LogoWithText = React.memo(Logo$2, function (prev, next) { return prev.isDark === next.isDark; });
 
